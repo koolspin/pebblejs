@@ -1,10 +1,10 @@
 {
-  "uuid": "133215f0-cf20-4c05-997b-3c9be5a64e5b",
-  "shortName": "Pebble.js",
-  "longName": "Pebble.js",
-  "companyName": "Meiguro",
+  "uuid": "378ff19b-0e77-4f0c-93d5-d496a140a24b",
+  "shortName": "Rosetta Demo",
+  "longName": "Rosetta Demo",
+  "companyName": "urbTek",
   "versionCode": 1,
-  "versionLabel": "0.4",
+  "versionLabel": "0.1",
   "capabilities": [ "configurable" ],
   "watchapp": {
     "watchface": false
@@ -16,7 +16,7 @@
         "menuIcon": true,
         "type": "png",
         "name": "IMAGE_MENU_ICON",
-        "file": "images/menu_icon.png"
+        "file": "images/crestron_logo_small_28_28.png"
       }, {
         "type": "png",
         "name": "IMAGE_LOGO_SPLASH",
@@ -25,6 +25,30 @@
         "type": "png",
         "name": "IMAGE_TILE_SPLASH",
         "file": "images/tile_splash.png"
+      }, {
+        "type": "png",
+        "name": "IMAGE_VOLUME_UP",
+        "file": "images/volume_up.png"
+      }, {
+        "type": "png",
+        "name": "IMAGE_VOLUME_DOWN",
+        "file": "images/volume_down.png"
+      }, {
+        "type": "png",
+        "name": "IMAGE_VOLUME_MUTE",
+        "file": "images/volume_mute.png"
+      }, {
+        "type": "png",
+        "name": "IMAGE_ARROW_UP",
+        "file": "images/up_arrow.png"
+      }, {
+        "type": "png",
+        "name": "IMAGE_ARROW_DOWN",
+        "file": "images/down_arrow.png"
+      }, {
+        "type": "png",
+        "name": "IMAGE_CRESTRON_LOGO_FULL",
+        "file": "images/crestron_logo_large.png"
       }, {
         "type": "font",
         "name": "MONO_FONT_14",
